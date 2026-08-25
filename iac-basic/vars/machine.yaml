@@ -1,0 +1,5 @@
+google_project_id: project-500b9e60-8e10-4dda-865
+user: sothea-phea
+adc_path: "/home/sothea-phea/.config/gcloud/application_default_credentials.json"
+ssh_public_key: /home/sothea-phea/.ssh/id_ed25519.pub
+machine_name: demo-iac-machine
